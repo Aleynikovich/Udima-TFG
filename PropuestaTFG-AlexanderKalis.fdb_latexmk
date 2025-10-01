@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1759323391.31878 "/home/xyz/repos/Udima-TFG/PropuestaTFG-AlexanderKalis.tex" "PropuestaTFG-AlexanderKalis.pdf" "PropuestaTFG-AlexanderKalis" 1759323392.1535 0
-  "/home/xyz/repos/Udima-TFG/PropuestaTFG-AlexanderKalis.tex" 1759323391.17059 18030 3f9f93004437965281576963f3421fdc ""
+["pdflatex"] 1759328273.9111 "/home/xyz/repos/Udima-TFG/PropuestaTFG-AlexanderKalis.tex" "PropuestaTFG-AlexanderKalis.pdf" "PropuestaTFG-AlexanderKalis" 1759328274.89405 0
+  "/home/xyz/repos/Udima-TFG/PropuestaTFG-AlexanderKalis.tex" 1759328273.72012 18012 49c328bba8a903315df66330bf9df93c ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1755987285 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1755987285 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1755987285 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -84,10 +84,10 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1755987285 42087 b0f9697c952c8f5a8eede4134282cb0d ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1759310137 5467117 e063ce8e53b0cc3d0312473583ebc51c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1759310086 4644916 0cd6f0d8c9f2fe9c8add109710363749 ""
-  "PropuestaTFG-AlexanderKalis.aux" 1759323392.12059 7657 8ca1975ba734cffd86fe23478fdf7ef0 "pdflatex"
-  "PropuestaTFG-AlexanderKalis.out" 1759323392.12159 10459 735752d7ada65da61560e6e5143ca9a1 "pdflatex"
-  "PropuestaTFG-AlexanderKalis.tex" 1759323391.17059 18030 3f9f93004437965281576963f3421fdc ""
-  "PropuestaTFG-AlexanderKalis.toc" 1759323392.12346 4392 46e4da20f35ec799a841bc533da8ffde "pdflatex"
+  "PropuestaTFG-AlexanderKalis.aux" 1759328274.8522 7657 8ca1975ba734cffd86fe23478fdf7ef0 "pdflatex"
+  "PropuestaTFG-AlexanderKalis.out" 1759328274.8542 10459 735752d7ada65da61560e6e5143ca9a1 "pdflatex"
+  "PropuestaTFG-AlexanderKalis.tex" 1759328273.72012 18012 49c328bba8a903315df66330bf9df93c ""
+  "PropuestaTFG-AlexanderKalis.toc" 1759328274.85475 4392 46e4da20f35ec799a841bc533da8ffde "pdflatex"
   "S1200.png" 1759317523.96051 1847037 d72a409d45761340ba36d466c8310885 ""
   "arquitecturav2.png" 1759316976.72724 295151 28e7574337d1fa0bdc2684e327895cd8 ""
   "dobot.png" 1759317501.61539 33646 8c8e0edd045aad31e44da2a44d2a0fee ""
