@@ -1,0 +1,42 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Introducción}{5}{section.1}%
+\contentsline {section}{\numberline {2}Justificación y motivación}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Producción, planificación y control de la producción}{6}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Uso de herramientas informáticas aplicadas a la resolución de problemas de ingeniería}{6}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Métodos cuantitativos, algoritmos, optimización, modelado y validación de sistemas industriales}{6}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Implementación de soluciones y tecnologías IT aplicadas a la ingeniería de organización industrial}{6}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Gestión para la organización y dirección de empresas, sistemas de información y gestión integrada (ERP)}{6}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Gestión y supervisión de proyectos}{7}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Sistemas microcontrolados y sensorimetría aplicados a contexto industriales}{7}{subsection.2.7}%
+\contentsline {section}{\numberline {3}Descripción del proyecto}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Arquitectura del sistema}{8}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Componentes clave}{9}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Robot colaborativo Dobot CR5}{9}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Garra Schunk}{9}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}PLC Siemens 1200}{9}{subsubsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.4}Máquina de metrología Zeiss DuraMax}{9}{subsubsection.3.2.4}%
+\contentsline {subsubsection}{\numberline {3.2.5}Software de tracking de producción}{11}{subsubsection.3.2.5}%
+\contentsline {section}{\numberline {4}Metodología}{12}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Diseño y planificación conceptual}{12}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Diseño del layout de la celda}{12}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Selección de componentes}{12}{subsubsection.4.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.3}Definición de protocolos de comunicación}{12}{subsubsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.2}Simulación y validación virtual}{12}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Optimización de trayectorias}{12}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Detección de colisiones}{12}{subsubsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.3}Implementación y configuración del sistema}{12}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}Programación del robot Dobot CR5}{13}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2}Lógica de control en el PLC}{13}{subsubsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.3}Integración de componentes}{13}{subsubsection.4.3.3}%
+\contentsline {subsubsection}{\numberline {4.3.4}Desarrollo del software de tracking}{13}{subsubsection.4.3.4}%
+\contentsline {subsection}{\numberline {4.4}Pruebas y validación física}{13}{subsection.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.1}Pruebas de funcionamiento}{13}{subsubsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {4.4.2}Validación del proceso}{13}{subsubsection.4.4.2}%
+\contentsline {section}{\numberline {5}Resultados esperados}{14}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Implementación de la celda de manufactura}{14}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Funcionamiento del sistema de bin-picking}{14}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Precisión en la metrología y clasificación}{14}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Modelo de simulación validado}{14}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Software de tracking de producción}{14}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Documentación técnica completa}{14}{subsection.5.6}%
+\contentsline {section}{\numberline {6}Planificación}{15}{section.6}%
